@@ -25,18 +25,18 @@ An ATM Management System that allows users to perform various banking operations
 
 ***Compile and Run:***
 
-Compile the code using a C++ compiler.
+-Compile the code using a C++ compiler.
 
-Run the compiled executable to start the ATM Management System.
+-Run the compiled executable to start the ATM Management System.
 
 ***System Operation:***
 
-Upon starting the program, follow the prompts to log in as an Admin or User.
+-Upon starting the program, follow the prompts to log in as an Admin or User.
 
-Admin functions include adding users, deleting users, and viewing all user details.
+-Admin functions include adding users, deleting users, and viewing all user details.
 
-User functions include depositing money, withdrawing money, and viewing account details.
+-User functions include depositing money, withdrawing money, and viewing account details.
 
 ***Data Storage:***
 
-User data is stored in a file using file handling.
+-User data is stored in a file using file handling.
