@@ -3,7 +3,7 @@ An ATM Management System that allows users to perform various banking operations
 
 **Features:**
 
--***Admin Functions:***
+=>***Admin Functions:***
 
 -Add new users with username, password, and initial balance.
 
@@ -11,7 +11,7 @@ An ATM Management System that allows users to perform various banking operations
 
 -View all users' details stored in the system.
 
--***User Functions:***
+=>***User Functions:***
 
 -Log in as a user with a username and password.
 
@@ -23,13 +23,13 @@ An ATM Management System that allows users to perform various banking operations
 
 **Usage:**
 
-***Compile and Run:***
+=>***Compile and Run:***
 
 -Compile the code using a C++ compiler.
 
 -Run the compiled executable to start the ATM Management System.
 
-***System Operation:***
+=>***System Operation:***
 
 -Upon starting the program, follow the prompts to log in as an Admin or User.
 
@@ -37,6 +37,6 @@ An ATM Management System that allows users to perform various banking operations
 
 -User functions include depositing money, withdrawing money, and viewing account details.
 
-***Data Storage:***
+=>***Data Storage:***
 
 -User data is stored in a file using file handling.
