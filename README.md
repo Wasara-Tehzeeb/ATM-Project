@@ -9,7 +9,7 @@ An ATM Management System that allows users to perform various banking operations
 -Delete existing users by username.
 -View all users' details stored in the system.
 
--*User Functions:*
+-***User Functions:***
 
 -Log in as a user with a username and password.
 -Deposit money into the account.
